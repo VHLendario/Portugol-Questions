@@ -1,0 +1,1 @@
+Material de questões disponibilizados no Google Classroom e respondidas em portugol. Acima das funções existe um comentário referente a cada questão, todas realizadas e testadas. A função de "Início" encontra-se no final do arquivo.
